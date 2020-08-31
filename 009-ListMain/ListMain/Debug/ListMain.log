@@ -1,0 +1,27 @@
+﻿  ArrayList.c
+  ListMain.c
+c:\portable\workspace\ds\listmain\listmain\listmain.c(12): warning C4047: '함수': 'LData'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(12): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(13): warning C4047: '함수': 'LData'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(13): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(14): warning C4047: '함수': 'LData'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(14): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(15): warning C4047: '함수': 'LData'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(15): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(16): warning C4047: '함수': 'LData'의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(16): warning C4024: 'LInsert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(21): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(21): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(24): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(24): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(31): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(31): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(35): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(35): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(44): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(44): warning C4024: 'LFirst': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(47): warning C4047: '함수': 'LData *'의 간접 참조 수준이 'int *'과(와) 다릅니다.
+c:\portable\workspace\ds\listmain\listmain\listmain.c(47): warning C4024: 'LNext': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  Point.c
+  코드를 생성하고 있습니다...
+  ListMain.vcxproj -> C:\Portable\Workspace\DS\ListMain\Debug\ListMain.exe
